@@ -1,6 +1,6 @@
 
  
-# Vaccine
+# Project ReadME
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -21,7 +21,7 @@
 *[Email](#email)
 
 ## Description: 
-find vaccine
+this project is to help generate a read me document
 
 ## Install:
 
@@ -30,17 +30,17 @@ npm i
 ```
 
 ## Usage:
-use itg
+to create a high-quality read me
 
 ## Contribution:
-add to it
+me myself and i
 
 ## Test:
-test it
+run tests in the terminal
 
 ## GitHub:
-[iGotYU](https://github.com/iGotYU/)
+[iGotYu](https://github.com/iGotYu/)
 
-## email:
-[igotyuu](mailto:igotyuu)
+## Email:
+[igotyuu421@gmail.com](mailto:igotyuu421@gmail.com)
 

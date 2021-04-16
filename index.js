@@ -14,43 +14,43 @@ const questions = [
   },
   {
     type: "input",
-    message: "Describe your Project?",
+    message: "Briefly describe your Project?",
     name: "description",
   },
   {
     type: "list",
-    message: "Choose your License?",
+    message: "Choose your License for this project",
     name: "license",
     choices: ["MIT", "APACHE2.0", "GPL3.0", "BSD3"],
   },
   {
     type: "input",
-    message: "How to Install?",
+    message: "What is the instillation process?",
     name: "install",
   },
   {
     type: "input",
-    message: "How to use?",
+    message: "What is the purpose of this application?",
     name: "usage",
   },
   {
     type: "input",
-    message: "How to contribute?",
+    message: "Name a couple contributors of this project?",
     name: "contribution",
   },
   {
     type: "input",
-    message: "How to test?",
+    message: "How would you run this test?",
     name: "test",
   },
   {
     type: "input",
-    message: "Choose a GitHub username?",
+    message: "What is your GitHub username?",
     name: "github",
   },
   {
     type: "input",
-    message: "what is your email?",
+    message: "what is your email address?",
     name: "email",
   },
 ];
