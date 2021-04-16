@@ -1,6 +1,6 @@
 
  
-#dsa
+# Vaccine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -21,26 +21,26 @@
 *[Email](#email)
 
 ## Description: 
-dsa
+find vaccine
 
 ## Install:
 
 ```
-dsa
+npm i
 ```
 
 ## Usage:
-dsa
+use itg
 
-## Contribute:
-dsa
+## Contribution:
+add to it
 
 ## Test:
-dsa
+test it
 
 ## GitHub:
-[iGotYu](https://github.com/iGotYu/)
+[iGotYU](https://github.com/iGotYU/)
 
 ## email:
-dsa
+[igotyuu](mailto:igotyuu)
 

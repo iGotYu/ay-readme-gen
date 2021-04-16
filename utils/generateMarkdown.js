@@ -35,7 +35,7 @@ function generateMarkdown(data) {
   return (
 `
  
-#${data.title}
+# ${data.title}
 
 [![License: ${data.license}](https://img.shields.io/badge/License-${data.license}-yellow.svg)](https://opensource.org/licenses/${data.license})
 
@@ -67,7 +67,7 @@ ${data.install}
 ## Usage:
 ${data.usage}
 
-## Contribute:
+## Contribution:
 ${data.contribution}
 
 ## Test:
@@ -76,8 +76,8 @@ ${data.test}
 ## GitHub:
 [${data.github}](https://github.com/${data.github}/)
 
-## email:
-${data.email}
+## Email:
+[${data.email}](mailto:${data.email})
 
 `
   );
